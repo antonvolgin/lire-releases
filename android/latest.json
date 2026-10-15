@@ -1,0 +1,8 @@
+{
+  "version": "0.1.0-rc.1",
+  "versionCode": 1,
+  "prerelease": true,
+  "url": "https://github.com/antonvolgin/lire-releases/releases/download/android-v0.1.0-rc.1/Lire-0.1.0-rc.1.apk",
+  "sha256": "519f2ee5eb2491c25c66e129366a4fd179715960e5ac99f9080f7ded4b735667",
+  "minSdk": 26
+}
