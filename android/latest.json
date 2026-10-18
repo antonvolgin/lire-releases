@@ -1,8 +1,8 @@
 {
-  "version": "0.1.0-rc.7",
-  "versionCode": 7,
+  "version": "0.1.0-rc.8",
+  "versionCode": 8,
   "prerelease": true,
-  "url": "https://github.com/antonvolgin/lire-releases/releases/download/android-v0.1.0-rc.7/Lire-0.1.0-rc.7.apk",
-  "sha256": "3d1026db1b9ca9fc0f0e33d12131a51619b15a172e8828ec05f63fc4cd8fed32",
+  "url": "https://github.com/antonvolgin/lire-releases/releases/download/android-v0.1.0-rc.8/Lire-0.1.0-rc.8.apk",
+  "sha256": "9b77a2e3781b03e23082fd8d1f977dc0d3120cb7ee5ec7e72201122493fdbff5",
   "minSdk": 26
 }
