@@ -1,8 +1,8 @@
 {
-  "version": "0.1.0-rc.9",
-  "versionCode": 9,
+  "version": "0.1.0-rc.10",
+  "versionCode": 10,
   "prerelease": true,
-  "url": "https://github.com/antonvolgin/lire-releases/releases/download/android-v0.1.0-rc.9/Lire-0.1.0-rc.9.apk",
-  "sha256": "e2feb4c1d2183bf115386778b83348c7a00ca8e6f6ada1647e3dd878c1b9bf0d",
+  "url": "https://github.com/antonvolgin/lire-releases/releases/download/android-v0.1.0-rc.10/Lire-0.1.0-rc.10.apk",
+  "sha256": "2b6d6ad9069b3fe90f72b54f7c2f513d1ec11552353738f0df2555993d82d8e8",
   "minSdk": 26
 }
