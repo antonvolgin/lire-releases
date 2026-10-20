@@ -1,8 +1,8 @@
 {
-  "version": "0.1.0-rc.12",
-  "versionCode": 12,
+  "version": "0.1.0-rc.13",
+  "versionCode": 13,
   "prerelease": true,
-  "url": "https://github.com/antonvolgin/lire-releases/releases/download/android-v0.1.0-rc.12/Lire-0.1.0-rc.12.apk",
-  "sha256": "7595d53b334494560da381b8592d272566e54b1f192fd12f3351e20919ae17ad",
+  "url": "https://github.com/antonvolgin/lire-releases/releases/download/android-v0.1.0-rc.13/Lire-0.1.0-rc.13.apk",
+  "sha256": "6001ab179bbfef88c21371741d69b9c4a717fd3291ee8c48b8b4921494717500",
   "minSdk": 26
 }
